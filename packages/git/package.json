@@ -31,12 +31,10 @@
       "backend": "lib/node/git-backend-module"
     },
     {
-      "backend": "lib/node/env/git-env-module",
-      "backendElectron": "lib/electron-node/env/electron-git-env-module"
+      "backend": "lib/node/env/git-env-module"
     },
     {
-      "frontend": "lib/browser/prompt/git-prompt-module",
-      "frontendElectron": "lib/electron-browser/prompt/electron-git-prompt-module"
+      "frontend": "lib/browser/prompt/git-prompt-module"
     }
   ],
   "keywords": [

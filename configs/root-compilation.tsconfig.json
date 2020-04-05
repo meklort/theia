@@ -44,9 +44,6 @@
       "path": "../packages/getting-started/compile.tsconfig.json"
     },
     {
-      "path": "../packages/git/compile.tsconfig.json"
-    },
-    {
       "path": "../packages/json/compile.tsconfig.json"
     },
     {
@@ -134,10 +131,10 @@
       "path": "../examples/api-samples/compile.tsconfig.json"
     },
     {
-      "path": "../examples/electron/compile.tsconfig.json"
+      "path": "../packages/vsx-registry/compile.tsconfig.json"
     },
     {
-      "path": "../packages/vsx-registry/compile.tsconfig.json"
+      "path": "../packages/git/compile.tsconfig.json"
     }
   ]
 }

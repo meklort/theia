@@ -54,7 +54,6 @@ Here you can find guides and examples for common scenarios:
 - [Develop a Theia plugin - a VS Code like extension](https://www.theia-ide.org/doc/Authoring_Plugins.html)
 - [Develop a Theia extension](http://www.theia-ide.org/doc/Authoring_Extensions.html)
 - [Test a VS Code extension in Theia](https://github.com/eclipse-theia/theia/wiki/Testing-VS-Code-extensions)
-- [Package a desktop Theia application with Electron](https://github.com/theia-ide/yangster-electron)
 
 ## Contributing
 

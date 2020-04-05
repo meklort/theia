@@ -22,7 +22,6 @@
   "theiaExtensions": [
     {
       "backend": "lib/node/plugin-dev-backend-module",
-      "backendElectron": "lib/node-electron/plugin-dev-electron-backend-module",
       "frontend": "lib/browser/plugin-dev-frontend-module"
     }
   ],
